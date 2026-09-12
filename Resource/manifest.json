@@ -1,0 +1,18 @@
+{
+      "format_version": 2,
+      "header": {
+        "name": "sample",
+        "description": "sample",
+        "uuid": "0ae7ea02-f383-4886-8f56-cb82c9934690",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 21, 10]
+      },
+      "modules": [
+        {
+          "description": "sampleのリソースパック",
+          "type": "resources",
+          "uuid": "b1b7e1cd-9de5-4497-aec6-173665c5c3b5",
+          "version": [1, 0, 0]
+        }
+      ]
+    }
