@@ -7,7 +7,7 @@ while (True):
   if isUI == "y":
     ui = """{
             "module_name": "@minecraft/server-ui",
-            "version": "2.1.0"
+            "version": "2.3.0"
         },"""
     break
   elif isUI == "n":
@@ -83,7 +83,7 @@ json = f"""{{
         {resource}
         {{
             "module_name": "@minecraft/server",
-            "version": "2.9.0"
+            "version": "2.11.0"
         }}
     ]
 }}
